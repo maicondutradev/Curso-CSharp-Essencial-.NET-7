@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        NumeroPar();
+        SwitchAninhada();
     }
 
     static void Fase1()
@@ -150,5 +150,71 @@ class Program
                 Console.WriteLine($"O número {numero} é impar");
                 break;
         }
+    }
+
+    static void Mes()
+    {
+        Console.WriteLine("Informe o mês desejado: ");
+        string mes = Console.ReadLine().ToLower();
+
+        switch (mes)
+        {
+            case "janeiro":
+            case "março":
+            case "maio":
+            case "jullho":
+            case "agosto":
+            case "outubro":
+            case "dezembro":
+                Console.WriteLine("Este mês tem 31 dias");
+                break;
+            case "feveiro":
+                Console.WriteLine("Este mês tem 28 o 29 dias");
+                break;
+            default:
+                Console.WriteLine("Este mês tem 30 dias");
+                break;
+        }
+    }
+
+    static void SwitchAninhada()
+    {
+
+        Console.Clear();
+
+        int cargo = 0;
+        int funcao = 0;
+
+        Console.WriteLine("Você é gerente(1) ou programador(2)?");
+
+        cargo = Convert.ToInt32(Console.ReadLine());
+
+        switch (cargo)
+        {
+            case 1:
+                Console.WriteLine("Bem vindo, você é o gerente!");
+                break;
+            case 2:
+                Console.WriteLine("Você é programador junior(1) ou senior(2)?");
+                funcao = Convert.ToInt32(Console.ReadLine());
+                switch (funcao)
+                {
+                    case 1:
+                        Console.WriteLine("Bem vindo, você é um programador junior!");
+                        break;
+                    case 2:
+                        Console.WriteLine("Bem vindo, você é um programador senior!");
+                        break;
+                }
+                break;
+
+            default:
+                Console.WriteLine("Não consegui identificar você! Tente novamente.");
+                break;
+        }
+
+        Console.WriteLine("Fim do processamento...");
+
+
     }
 }
