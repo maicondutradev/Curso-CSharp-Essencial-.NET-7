@@ -27,6 +27,8 @@ namespace Fundamentos
             int? valor = null; //Nullable<int> valor = null;
             Console.WriteLine(valor);
 
+            //Conversão de tipos
+
         }
     }
 }
