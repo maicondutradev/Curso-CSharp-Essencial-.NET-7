@@ -5,6 +5,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        NumeroPar();
+    }
+
+    static void Fase1()
+    {
         //1
         int idade = 35;
         Console.WriteLine(idade);
@@ -90,6 +95,60 @@ class Program
         int b = 66;
         Console.WriteLine(a + b);
 
+    }
 
+    static void Fase2()
+    {
+        //Exercicio:1
+        string nome = "Paulo";
+        int idade = 17;
+        double nota = 7.5;
+        Console.WriteLine($"Aluno {nome} tem {idade} anos e nota {nota}");
+
+
+        //Exercicio:2
+        Console.WriteLine($"Aluno {nome} \n tem {idade} anos \n e nota {nota}");
+
+
+        //Exercicio:5
+        Console.WriteLine("Digite uma letra: ");
+        string letra1 = Console.ReadLine();
+
+        Console.WriteLine("Digite uma letra: ");
+        string letra2 = Console.ReadLine();
+
+        Console.WriteLine("Digite uma letra: ");
+        string letra3 = Console.ReadLine();
+
+        Console.WriteLine($"Letras digitas {letra3}, {letra2} e {letra1}");
+
+        Console.Clear();
+
+        //Exercicio:7
+        Console.WriteLine("Digite um número double: ");
+        double numero1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Digite um número double: ");
+        double numero2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine($"A soma é {numero1 + numero2}, a subtração é {numero1 - numero2}, a exponenciação é {Math.Pow(numero1, numero2)}, a divisão é {numero1 / numero2} e o modulo é {numero1 % numero2}");
+
+    }
+
+
+    static void NumeroPar()
+    {
+        Console.Write("Informe um número inteiro: ");
+        int numero = Convert.ToInt32(Console.ReadLine());
+
+        switch (numero % 2)
+        {
+            case 0:
+                Console.WriteLine($"\n O número {numero} é par");
+                break;
+            case 1:
+                Console.WriteLine($"O número {numero} é impar");
+                break;
+        }
     }
 }
