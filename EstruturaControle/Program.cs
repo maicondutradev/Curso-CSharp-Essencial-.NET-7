@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        NumeroParWhile();
+        TabuadaFor();
     }
 
     static void While()
@@ -70,6 +70,19 @@ class Program
                 Console.WriteLine("O número é impar");
             }
 
+        }
+    }
+
+    static void TabuadaFor()
+    {
+        int numero;
+
+        Console.WriteLine("Dgitie um número inteiro: ");
+        numero = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine($"{numero} x {i} = {numero * i}");
         }
     }
 }
