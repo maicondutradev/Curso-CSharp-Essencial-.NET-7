@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\bin\Debug\net6.0\EstruturaControle.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\bin\Debug\net6.0\EstruturaControle.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\bin\Debug\net6.0\EstruturaControle.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\bin\Debug\net6.0\EstruturaControle.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\bin\Debug\net6.0\EstruturaControle.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\refint\EstruturaControle.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\EstruturaControle.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\EstruturaControle\obj\Debug\net6.0\ref\EstruturaControle.dll
