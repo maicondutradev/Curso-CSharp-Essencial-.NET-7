@@ -1,11 +1,12 @@
 ﻿using System.Security.Cryptography.X509Certificates;
+using Microsoft.VisualBasic;
 
 namespace Exercicios;
 class Program
 {
     static void Main(string[] args)
     {
-        SwitchAninhada();
+        MaiorQueZero();
     }
 
     static void Fase1()
@@ -135,7 +136,6 @@ class Program
 
     }
 
-
     static void NumeroPar()
     {
         Console.Write("Informe um número inteiro: ");
@@ -216,5 +216,84 @@ class Program
         Console.WriteLine("Fim do processamento...");
 
 
+    }
+
+    static void MaiorNumero()
+    {
+        double numero1, numero2, numero3;
+
+        Console.WriteLine("Primeiro número: ");
+        numero1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Segundo número: ");
+        numero2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Terceiro número: ");
+        numero3 = Convert.ToDouble(Console.ReadLine());
+
+        if (numero1 > numero2)
+        {
+            if (numero1 > numero3)
+            {
+                Console.WriteLine($"O primeiro número {numero1} é o maior!");
+            }
+            else
+            {
+                Console.WriteLine($"O terceiro número {numero3} é o maior!");
+            }
+        }
+        else if (numero2 > numero3)
+        {
+            Console.WriteLine($"O segundo número {numero2} é o maior!");
+        }
+        else
+        {
+            Console.WriteLine($"O terceiro número {numero3} é o maior!");
+        }
+
+
+
+    }
+
+    static void NumerosNaturais()
+    {
+        Console.Clear();
+
+        int i, soma = 0;
+
+        for (i = 1; i <= 10; i++)
+        {
+            soma += i;
+            Console.Write($" {i} ");
+        }
+
+        Console.WriteLine($"A soma dos números é {soma}");
+    }
+
+    static void MaiorQueZero()
+    {
+        int numero;
+
+        while (true)
+        {
+            Console.WriteLine("Digite um número: \n Para sair digite: 999");
+            numero = Convert.ToInt32(Console.ReadLine());
+
+            if (numero == 999)
+            {
+                break;
+            }
+
+            if (numero > 0)
+            {
+                Console.WriteLine("O número é maior que 0");
+
+                for (var i = 0; i <= 10; i++)
+                {
+                    Console.WriteLine($"A tabuada desse número {numero} é {numero} X {i} = {numero * i}");
+                }
+            }
+
+        }
     }
 }
