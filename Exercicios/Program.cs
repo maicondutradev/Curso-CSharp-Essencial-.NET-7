@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        MaiorQueZero();
+        SairLoop();
     }
 
     static void Fase1()
@@ -293,6 +293,42 @@ class Program
                     Console.WriteLine($"A tabuada desse número {numero} é {numero} X {i} = {numero * i}");
                 }
             }
+
+        }
+    }
+
+    static void SairLoop()
+    {
+        while (true)
+        {
+            Console.WriteLine("Qual a instrução para sair de um loop?");
+            Console.WriteLine(" a.quit \n b.continue \n c.break \n d.exit");
+            Console.WriteLine("Qual a opção correta? (Tecle x para sair)");
+            string escolha = Console.ReadLine().ToLower();
+
+
+            if (escolha == "x")
+            {
+                Environment.Exit(0);
+            }
+            else if (escolha == "a")
+            {
+                Console.WriteLine("Errou!");
+                continue;
+            }
+            else if (escolha == "b")
+            {
+                Console.WriteLine("Errou!");
+            }
+            else if (escolha == "c")
+            {
+                Console.WriteLine("Acertou!");
+            }
+            else if (escolha == "d")
+            {
+                Console.WriteLine("Errou!");
+            }
+
 
         }
     }
