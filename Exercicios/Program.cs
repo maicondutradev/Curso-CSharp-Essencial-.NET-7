@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        SairLoop();
+        TrianguloAnguloReto();
     }
 
     static void Fase1()
@@ -332,4 +332,34 @@ class Program
 
         }
     }
+
+    static void ExibirNumerosPares()
+    {
+        for (var i = 10; i < 20; i += 2)
+        {
+            if (i == 16)
+            {
+                continue;
+            }
+            Console.WriteLine(i);
+        }
+    }
+
+    static void TrianguloAnguloReto()
+    {
+        int i, j, linhas;
+
+        Console.WriteLine("Informe o número de linhas: ");
+        linhas = Convert.ToInt32(Console.ReadLine());
+
+        for (i = 1; i <= linhas; i++)
+        {
+            for (j = 1; j <= i; j++)
+            {
+                Console.Write("*");
+            }
+            Console.Write("\n");
+        }
+    }
+
 }
