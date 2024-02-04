@@ -31,6 +31,7 @@
         {
             MinhaClasse minhaClasse = new MinhaClasse();
             minhaClasse.Saudacao();
+            minhaClasse.ExibirDataAtual();
         }
     }
 
@@ -52,6 +53,11 @@
         {
             Console.WriteLine("Bem-vindo!");
             Console.WriteLine("04/02/2024");
+        }
+
+        public void ExibirDataAtual()
+        {
+            Console.WriteLine(DateTime.Now);
         }
     }
 }
