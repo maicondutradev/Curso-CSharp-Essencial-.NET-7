@@ -4,9 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Pessoas();
+            //Chamando o metodo onde está o objeto para ser executado
+            MinhasClasses();
         }
 
+
+        //Criando o objeto
         static void Pessoas()
         {
             Pessoa p1 = new Pessoa();
@@ -23,13 +26,32 @@
             Console.WriteLine($"{p2.nome} {p2.idade} {p2.sexo}");
         }
 
+        //Criando o objeto
+        static void MinhasClasses()
+        {
+            MinhaClasse minhaClasse = new MinhaClasse();
+            minhaClasse.Saudacao();
+        }
     }
 
+
+    //Aprendendo como usar propriedades em uma classe
     class Pessoa
     {
         public string? nome;
         public int idade;
         public string? sexo;
 
+    }
+
+
+    //Aprendendo como usar metodos em uma classe
+    class MinhaClasse
+    {
+        public void Saudacao()
+        {
+            Console.WriteLine("Bem-vindo!");
+            Console.WriteLine("04/02/2024");
+        }
     }
 }
