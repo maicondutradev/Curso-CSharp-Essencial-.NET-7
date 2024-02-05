@@ -13,21 +13,7 @@ namespace ClassesObjetos
         static void ObterInformacoesAlunos()
         {
             Aluno aluno = new Aluno();
-
-            Console.WriteLine("Nome: ");
-            aluno.Nome = Console.ReadLine();
-
-            Console.WriteLine("Idade: ");
-            aluno.Idade = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Sexo: ");
-            aluno.Sexo = Console.ReadLine();
-
-            Console.WriteLine("Aprovado (S)im (N)ão: ");
-            aluno.Aprovado = Console.ReadLine().ToLower();
-
-            Curso curso = new Curso();
-            curso.Resultado(aluno);
+            aluno.Consultar();
         }
         // Método responsável por criar e usar um objeto da classe Pessoa
         static void Pessoas()
