@@ -6,11 +6,30 @@ namespace ClassesObjetos
     {
         static void Main(string[] args)
         {
-            // Chamando o método onde está o objeto para ser executado
-            MinhasClasses();
+            ObterInformacoesAlunos();
         }
 
-        // Método responsável por criar e exibir informações sobre pessoas
+        // Método responsável por criar e usar um objeto da classe Aluno e Curso
+        static void ObterInformacoesAlunos()
+        {
+            Aluno aluno = new Aluno();
+
+            Console.WriteLine("Nome: ");
+            aluno.Nome = Console.ReadLine();
+
+            Console.WriteLine("Idade: ");
+            aluno.Idade = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Sexo: ");
+            aluno.Sexo = Console.ReadLine();
+
+            Console.WriteLine("Aprovado (S)im (N)ão: ");
+            aluno.Aprovado = Console.ReadLine();
+
+            Curso curso = new Curso();
+            curso.Resultado(aluno.Nome, aluno.Idade, aluno.Sexo, aluno.Aprovado);
+        }
+        // Método responsável por criar e usar um objeto da classe Pessoa
         static void Pessoas()
         {
             // Criando o primeiro objeto Pessoa (p1)
@@ -19,7 +38,6 @@ namespace ClassesObjetos
             p1.idade = 23;
             p1.sexo = "Masculino";
             Console.WriteLine($"{p1.nome} {p1.idade} {p1.sexo}");
-
             // Criando o segundo objeto Pessoa (p2)
             Pessoa p2 = new Pessoa();
             p2.nome = "Mirela";
@@ -42,28 +60,4 @@ namespace ClassesObjetos
         }
     }
 
-    // Classe representando uma Pessoa
-    class Pessoa
-    {
-        public string? nome;
-        public int idade;
-        public string? sexo;
-    }
-
-    // Classe com métodos para exibição de saudação e data atual
-    class MinhaClasse
-    {
-        // Método para exibir saudação com nome e data
-        public void Saudacao(string nome, string data)
-        {
-            Console.WriteLine(nome);
-            Console.WriteLine(data);
-        }
-
-        // Método para exibir a data atual
-        public void ExibirDataAtual()
-        {
-            Console.WriteLine(DateTime.Now);
-        }
-    }
 }
