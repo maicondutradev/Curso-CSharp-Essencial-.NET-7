@@ -11,10 +11,10 @@ public class Aluno
 
 public class Curso
 {
-    public void Resultado(string nome, int idade, string sexo, string aprovado)
+    public void Resultado(Aluno aluno)
     {
-        Console.WriteLine($"O aluno {nome}, sexo {sexo} com {idade} anos");
-        if (aprovado == "S")
+        Console.WriteLine($"O aluno {aluno.Nome}, sexo {aluno.Sexo} com {aluno.Idade} anos");
+        if (aluno.Aprovado == "s")
         {
             Console.WriteLine("Foi aprovado!");
         }

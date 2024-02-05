@@ -24,10 +24,10 @@ namespace ClassesObjetos
             aluno.Sexo = Console.ReadLine();
 
             Console.WriteLine("Aprovado (S)im (N)ão: ");
-            aluno.Aprovado = Console.ReadLine();
+            aluno.Aprovado = Console.ReadLine().ToLower();
 
             Curso curso = new Curso();
-            curso.Resultado(aluno.Nome, aluno.Idade, aluno.Sexo, aluno.Aprovado);
+            curso.Resultado(aluno);
         }
         // Método responsável por criar e usar um objeto da classe Pessoa
         static void Pessoas()
