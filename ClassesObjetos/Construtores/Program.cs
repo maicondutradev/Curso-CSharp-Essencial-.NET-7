@@ -18,10 +18,15 @@ Console.WriteLine(aluno.Aprovado == null ? "Null" : aluno.Aprovado);
 // Definindo a classe Aluno com atributos Nome, Idade, Sexo e Aprovado
 public class Aluno
 {
-    // Construtor da classe Aluno que recebe parâmetros para inicializar os atributos
-    public Aluno(string nome, int idade, string sexo, string aprovado)
+
+    public Aluno(string nome)
     {
         Nome = nome;
+    }
+
+    // Construtor da classe Aluno que recebe parâmetros para inicializar os atributos
+    public Aluno(string nome, int idade, string sexo, string aprovado) : this(nome)
+    {
         Idade = idade;
         Sexo = sexo;
         Aprovado = aprovado;
