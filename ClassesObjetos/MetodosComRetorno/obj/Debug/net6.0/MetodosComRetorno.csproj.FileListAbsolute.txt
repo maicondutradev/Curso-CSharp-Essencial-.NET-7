@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\bin\Debug\net6.0\MetodosComRetorno.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\bin\Debug\net6.0\MetodosComRetorno.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\bin\Debug\net6.0\MetodosComRetorno.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\bin\Debug\net6.0\MetodosComRetorno.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\bin\Debug\net6.0\MetodosComRetorno.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\refint\MetodosComRetorno.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\MetodosComRetorno.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosComRetorno\obj\Debug\net6.0\ref\MetodosComRetorno.dll
