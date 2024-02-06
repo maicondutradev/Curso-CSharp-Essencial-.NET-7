@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\bin\Debug\net6.0\ExerciciosPraticos.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\bin\Debug\net6.0\ExerciciosPraticos.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\bin\Debug\net6.0\ExerciciosPraticos.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\bin\Debug\net6.0\ExerciciosPraticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\bin\Debug\net6.0\ExerciciosPraticos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\refint\ExerciciosPraticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ExerciciosPraticos.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos\obj\Debug\net6.0\ref\ExerciciosPraticos.dll
