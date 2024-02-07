@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\bin\Debug\net6.0\ExemploPratico.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\bin\Debug\net6.0\ExemploPratico.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\bin\Debug\net6.0\ExemploPratico.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\bin\Debug\net6.0\ExemploPratico.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\bin\Debug\net6.0\ExemploPratico.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\refint\ExemploPratico.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ExemploPratico.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ExemploPratico\obj\Debug\net6.0\ref\ExemploPratico.dll
