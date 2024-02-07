@@ -1,4 +1,12 @@
-﻿public class Email
+﻿
+Email email = new Email();
+
+email.Enviar("saquarema.com.br");
+email.Enviar("saquarema.com.br", "Prova final");
+email.Enviar("saquarema.com.br", 500);
+email.Enviar(500, "Saquarema");
+
+public class Email
 {
     public void Enviar(string endereco)
     {

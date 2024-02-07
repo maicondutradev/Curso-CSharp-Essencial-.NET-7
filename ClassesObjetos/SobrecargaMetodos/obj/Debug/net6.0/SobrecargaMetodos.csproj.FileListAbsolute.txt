@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\refint\SobrecargaMetodos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\SobrecargaMetodos\obj\Debug\net6.0\ref\SobrecargaMetodos.dll
