@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExerciciosPraticos3/1.0.0": {
+        "runtime": {
+          "ExerciciosPraticos3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciciosPraticos3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

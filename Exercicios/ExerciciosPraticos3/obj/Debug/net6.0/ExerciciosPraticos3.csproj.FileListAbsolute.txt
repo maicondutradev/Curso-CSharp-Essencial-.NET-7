@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\bin\Debug\net6.0\ExerciciosPraticos3.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\bin\Debug\net6.0\ExerciciosPraticos3.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\bin\Debug\net6.0\ExerciciosPraticos3.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\bin\Debug\net6.0\ExerciciosPraticos3.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\bin\Debug\net6.0\ExerciciosPraticos3.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\refint\ExerciciosPraticos3.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ExerciciosPraticos3.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Exercicios\ExerciciosPraticos3\obj\Debug\net6.0\ref\ExerciciosPraticos3.dll
