@@ -2,8 +2,15 @@
 {
     private static void Main(string[] args)
     {
-        var soma = Calculadora.Somar(5, 10);
-        Console.WriteLine(soma);
+        var somar = Calculadora.Somar(5, 10);
+        var multiplicar = Calculadora.Multiplicar(5, 10);
+        var subrtrair = Calculadora.Subtrair(5, 10);
+        var dividir = Calculadora.Dividir(5, 10);
+
+        Console.WriteLine(somar);
+        Console.WriteLine(multiplicar);
+        Console.WriteLine(subrtrair);
+        Console.WriteLine(dividir);
     }
     public class Calculadora
     {
