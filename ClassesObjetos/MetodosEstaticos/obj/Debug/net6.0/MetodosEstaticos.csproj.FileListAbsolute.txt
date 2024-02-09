@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\refint\MetodosEstaticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\MetodosEstaticos\obj\Debug\net6.0\ref\MetodosEstaticos.dll
