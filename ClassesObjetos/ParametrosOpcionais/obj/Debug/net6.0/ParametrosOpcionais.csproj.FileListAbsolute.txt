@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\refint\ParametrosOpcionais.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ParametrosOpcionais\obj\Debug\net6.0\ref\ParametrosOpcionais.dll

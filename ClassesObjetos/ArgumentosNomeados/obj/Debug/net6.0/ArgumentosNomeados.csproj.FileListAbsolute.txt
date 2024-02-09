@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\bin\Debug\net6.0\ArgumentosNomeados.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\bin\Debug\net6.0\ArgumentosNomeados.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\bin\Debug\net6.0\ArgumentosNomeados.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\bin\Debug\net6.0\ArgumentosNomeados.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\bin\Debug\net6.0\ArgumentosNomeados.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\refint\ArgumentosNomeados.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\ArgumentosNomeados\obj\Debug\net6.0\ref\ArgumentosNomeados.dll
