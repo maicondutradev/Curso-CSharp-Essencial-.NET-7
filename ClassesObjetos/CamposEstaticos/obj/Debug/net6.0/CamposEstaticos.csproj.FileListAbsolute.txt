@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\refint\CamposEstaticos.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\ref\CamposEstaticos.dll
