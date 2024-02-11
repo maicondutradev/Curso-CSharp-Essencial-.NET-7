@@ -7,6 +7,11 @@ namespace ExemploPratico
         // Método principal que será executado quando o programa iniciar
         static void Main(string[] args)
         {
+            Clientes();
+        }
+        //Criando o objeto da classe cliente e cadastro
+        static void Clientes()
+        {
             // Criando uma instância da classe Cadastro
             Cadastro cadastro = new Cadastro();
 
@@ -23,7 +28,6 @@ namespace ExemploPratico
             cadastro.ExibirDados("Renda alterada", cliente);
         }
     }
-
     // Definindo uma classe chamada Cliente
     public class Cliente
     {
