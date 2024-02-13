@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\bin\Debug\net6.0\TratamentoErros.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\bin\Debug\net6.0\TratamentoErros.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\bin\Debug\net6.0\TratamentoErros.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\bin\Debug\net6.0\TratamentoErros.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\bin\Debug\net6.0\TratamentoErros.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\refint\TratamentoErros.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\TratamentoErros.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\TratamentoErros\obj\Debug\net6.0\ref\TratamentoErros.dll
