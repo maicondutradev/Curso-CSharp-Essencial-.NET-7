@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\bin\Debug\net6.0\PartialClass.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\bin\Debug\net6.0\PartialClass.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\bin\Debug\net6.0\PartialClass.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\bin\Debug\net6.0\PartialClass.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\bin\Debug\net6.0\PartialClass.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\refint\PartialClass.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\PartialClass.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\ClassesObjetos\PartialClass\obj\Debug\net6.0\ref\PartialClass.dll
