@@ -7,3 +7,14 @@ string[] nome1 = new string[5] { "Maicon", "Mirela", "Izabel", "Mario", "Naruto"
 string[] nome2 = new string[] { "Maicon", "Mirela", "Izabel", "Mario", "Naruto" };
 string[] nome3 = { "Maicon", "Mirela", "Izabel", "Mario", "Naruto" };
 Console.WriteLine(nome3[1]);
+
+//Criando um array sem passar os valores.
+int[] numeros1;
+numeros1 = new int[3];
+
+//Adicionando valores ao array, por index.
+numeros1[0] = 1;
+numeros1[1] = 2;
+numeros1[2] = 3;
+
+
