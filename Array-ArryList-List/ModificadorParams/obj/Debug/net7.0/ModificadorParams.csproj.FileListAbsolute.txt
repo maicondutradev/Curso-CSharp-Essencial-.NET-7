@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\bin\Debug\net7.0\ModificadorParams.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\refint\ModificadorParams.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ModificadorParams.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ModificadorParams\obj\Debug\net7.0\ref\ModificadorParams.dll
