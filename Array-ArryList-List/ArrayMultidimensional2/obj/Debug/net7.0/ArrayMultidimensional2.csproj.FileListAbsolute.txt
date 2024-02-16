@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\bin\Debug\net7.0\ArrayMultidimensional2.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\bin\Debug\net7.0\ArrayMultidimensional2.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\bin\Debug\net7.0\ArrayMultidimensional2.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\bin\Debug\net7.0\ArrayMultidimensional2.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\bin\Debug\net7.0\ArrayMultidimensional2.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\refint\ArrayMultidimensional2.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ArrayMultidimensional2.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayMultidimensional2\obj\Debug\net7.0\ref\ArrayMultidimensional2.dll
