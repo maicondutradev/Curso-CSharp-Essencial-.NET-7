@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\bin\Debug\net7.0\ArrayList3.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\bin\Debug\net7.0\ArrayList3.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\bin\Debug\net7.0\ArrayList3.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\bin\Debug\net7.0\ArrayList3.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\bin\Debug\net7.0\ArrayList3.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\refint\ArrayList3.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ArrayList3.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Arraylist3\obj\Debug\net7.0\ref\ArrayList3.dll
