@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\bin\Debug\net7.0\Exercicio-ArrayBidimensional.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\bin\Debug\net7.0\Exercicio-ArrayBidimensional.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\bin\Debug\net7.0\Exercicio-ArrayBidimensional.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\bin\Debug\net7.0\Exercicio-ArrayBidimensional.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\bin\Debug\net7.0\Exercicio-ArrayBidimensional.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\refint\Exercicio-ArrayBidimensional.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\Exercicio-ArrayBidimensional.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-ArrayBidimensional\obj\Debug\net7.0\ref\Exercicio-ArrayBidimensional.dll
