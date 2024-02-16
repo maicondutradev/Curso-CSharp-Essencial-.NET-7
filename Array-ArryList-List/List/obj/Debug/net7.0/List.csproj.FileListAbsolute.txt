@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\bin\Debug\net7.0\List.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\bin\Debug\net7.0\List.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\bin\Debug\net7.0\List.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\bin\Debug\net7.0\List.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\refint\List.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\List\obj\Debug\net7.0\ref\List.dll

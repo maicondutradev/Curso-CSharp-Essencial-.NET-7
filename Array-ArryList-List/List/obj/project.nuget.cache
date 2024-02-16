@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItTMiwNog6I8j/ezsFmmBDrqUW5whzqBBQgszB/z6OUzuW1bGfV0sjtjw/7JCvxqTLDuy2bgQGOvWiydG7rEaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maico\\Documents\\GitHub\\Curso-CSharp-Essencial-.NET-7\\Array-ArryList-List\\List\\List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
