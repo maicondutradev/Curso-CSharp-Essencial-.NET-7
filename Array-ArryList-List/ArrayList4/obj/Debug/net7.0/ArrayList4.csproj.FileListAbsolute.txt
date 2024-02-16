@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\bin\Debug\net7.0\ArrayList4.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\bin\Debug\net7.0\ArrayList4.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\bin\Debug\net7.0\ArrayList4.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\bin\Debug\net7.0\ArrayList4.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\bin\Debug\net7.0\ArrayList4.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\refint\ArrayList4.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ArrayList4.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\ArrayList4\obj\Debug\net7.0\ref\ArrayList4.dll
