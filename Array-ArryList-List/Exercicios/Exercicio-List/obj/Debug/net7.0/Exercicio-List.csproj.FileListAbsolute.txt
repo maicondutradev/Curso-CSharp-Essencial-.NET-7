@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\bin\Debug\net7.0\Exercicio-List.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\bin\Debug\net7.0\Exercicio-List.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\bin\Debug\net7.0\Exercicio-List.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\bin\Debug\net7.0\Exercicio-List.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\bin\Debug\net7.0\Exercicio-List.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\refint\Exercicio-List.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\Exercicio-List.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Exercicios\Exercicio-List\obj\Debug\net7.0\ref\Exercicio-List.dll
