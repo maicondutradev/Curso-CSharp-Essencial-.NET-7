@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\bin\Debug\net7.0\Indexadores.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\bin\Debug\net7.0\Indexadores.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\bin\Debug\net7.0\Indexadores.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\bin\Debug\net7.0\Indexadores.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\bin\Debug\net7.0\Indexadores.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\refint\Indexadores.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\Indexadores.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\Indexadores\obj\Debug\net7.0\ref\Indexadores.dll
