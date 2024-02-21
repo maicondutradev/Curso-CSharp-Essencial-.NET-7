@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\bin\Debug\net7.0\NumerosAleatorios.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\bin\Debug\net7.0\NumerosAleatorios.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\bin\Debug\net7.0\NumerosAleatorios.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\bin\Debug\net7.0\NumerosAleatorios.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\bin\Debug\net7.0\NumerosAleatorios.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\refint\NumerosAleatorios.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\NumerosAleatorios.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Array-ArryList-List\NumerosAleatorios\obj\Debug\net7.0\ref\NumerosAleatorios.dll
