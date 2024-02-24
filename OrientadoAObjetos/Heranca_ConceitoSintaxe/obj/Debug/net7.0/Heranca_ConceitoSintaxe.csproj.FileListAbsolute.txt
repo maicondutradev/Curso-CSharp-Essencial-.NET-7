@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\bin\Debug\net7.0\Heranca_ConceitoSintaxe.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\bin\Debug\net7.0\Heranca_ConceitoSintaxe.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\bin\Debug\net7.0\Heranca_ConceitoSintaxe.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\bin\Debug\net7.0\Heranca_ConceitoSintaxe.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\bin\Debug\net7.0\Heranca_ConceitoSintaxe.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\refint\Heranca_ConceitoSintaxe.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\Heranca_ConceitoSintaxe.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ConceitoSintaxe\obj\Debug\net7.0\ref\Heranca_ConceitoSintaxe.dll
