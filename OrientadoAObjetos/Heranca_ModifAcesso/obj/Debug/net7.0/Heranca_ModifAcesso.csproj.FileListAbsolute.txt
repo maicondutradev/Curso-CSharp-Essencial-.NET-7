@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\bin\Debug\net7.0\Heranca_ModifAcesso.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\bin\Debug\net7.0\Heranca_ModifAcesso.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\bin\Debug\net7.0\Heranca_ModifAcesso.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\bin\Debug\net7.0\Heranca_ModifAcesso.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\bin\Debug\net7.0\Heranca_ModifAcesso.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\refint\Heranca_ModifAcesso.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\Heranca_ModifAcesso.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifAcesso\obj\Debug\net7.0\ref\Heranca_ModifAcesso.dll
