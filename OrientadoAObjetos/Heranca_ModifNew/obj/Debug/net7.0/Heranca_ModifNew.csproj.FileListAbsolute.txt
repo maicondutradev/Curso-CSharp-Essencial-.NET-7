@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\bin\Debug\net7.0\Heranca_ModifNew.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\bin\Debug\net7.0\Heranca_ModifNew.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\bin\Debug\net7.0\Heranca_ModifNew.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\bin\Debug\net7.0\Heranca_ModifNew.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\bin\Debug\net7.0\Heranca_ModifNew.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\refint\Heranca_ModifNew.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\Heranca_ModifNew.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_ModifNew\obj\Debug\net7.0\ref\Heranca_ModifNew.dll
