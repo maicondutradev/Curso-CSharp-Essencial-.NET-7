@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\bin\Debug\net7.0\Heranca_Sealed.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\bin\Debug\net7.0\Heranca_Sealed.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\bin\Debug\net7.0\Heranca_Sealed.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\bin\Debug\net7.0\Heranca_Sealed.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\bin\Debug\net7.0\Heranca_Sealed.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\refint\Heranca_Sealed.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\Heranca_Sealed.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Sealed\obj\Debug\net7.0\ref\Heranca_Sealed.dll
