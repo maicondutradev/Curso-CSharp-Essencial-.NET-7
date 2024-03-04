@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\bin\Debug\net7.0\Heranca_VirtualOverride.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\bin\Debug\net7.0\Heranca_VirtualOverride.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\bin\Debug\net7.0\Heranca_VirtualOverride.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\bin\Debug\net7.0\Heranca_VirtualOverride.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\bin\Debug\net7.0\Heranca_VirtualOverride.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\refint\Heranca_VirtualOverride.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\Heranca_VirtualOverride.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_VirtualOverride\obj\Debug\net7.0\ref\Heranca_VirtualOverride.dll
