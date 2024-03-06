@@ -7,14 +7,22 @@
             Circulo circulo = new Circulo(10, 20);
             Forma forma = circulo;//Upcasting -> implicita
 
-            Circulo c = (Circulo)forma;//Downcasting -> explicita
+            //Circulo c = (Circulo)forma;//Downcasting -> explicita
 
-            c.PintarCirculo();
-            c.Desenhar();
+            if (forma is Circulo)//Verifica se o downcast é possivel
+            {
+                Console.WriteLine("Converteu Forma para Circulo\n");
 
-            Console.WriteLine(c == forma);
-            Console.WriteLine(c == circulo);
+                //((Circulo)forma).PintarCirculo();
+                var tipo = forma as Circulo;
+                tipo?.PintarCirculo();
+            }
+            else
+            {
+                Console.WriteLine("Operação de downcasting não é possível");
+            }
 
+            Console.ReadKey();
         }
     }
 }

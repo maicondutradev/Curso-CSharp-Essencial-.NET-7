@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Heranca_UpcastingDowncasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24e2bad6f395ed788d840939d1d501fadd06f916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6fcd5a4c0e5fd96d73da2dffeff7641ed79e20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Heranca_UpcastingDowncasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Heranca_UpcastingDowncasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
