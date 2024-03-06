@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\bin\Debug\net7.0\Heranca_UpcastingDowncasting.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\bin\Debug\net7.0\Heranca_UpcastingDowncasting.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\bin\Debug\net7.0\Heranca_UpcastingDowncasting.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\bin\Debug\net7.0\Heranca_UpcastingDowncasting.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\bin\Debug\net7.0\Heranca_UpcastingDowncasting.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\refint\Heranca_UpcastingDowncasting.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\Heranca_UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_UpcastingDowncasting\obj\Debug\net7.0\ref\Heranca_UpcastingDowncasting.dll
