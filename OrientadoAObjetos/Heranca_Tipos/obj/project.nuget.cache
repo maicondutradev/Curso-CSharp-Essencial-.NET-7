@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUXThrTshqFoOXG7RlPOX6DsZ8XIbwP2L5Fatdfh2tffQep4PIsCy5WBGWi74t6RtRcT/GaFtLnXqs8A8n2Z1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maico\\Documents\\GitHub\\Curso-CSharp-Essencial-.NET-7\\OrientadoAObjetos\\Heranca_Tipos\\Heranca_Tipos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
