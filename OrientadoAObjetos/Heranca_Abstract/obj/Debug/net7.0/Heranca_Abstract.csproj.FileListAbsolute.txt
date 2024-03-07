@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\bin\Debug\net7.0\Heranca_Abstract.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\bin\Debug\net7.0\Heranca_Abstract.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\bin\Debug\net7.0\Heranca_Abstract.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\bin\Debug\net7.0\Heranca_Abstract.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\bin\Debug\net7.0\Heranca_Abstract.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\refint\Heranca_Abstract.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\Heranca_Abstract.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Heranca_Abstract\obj\Debug\net7.0\ref\Heranca_Abstract.dll
