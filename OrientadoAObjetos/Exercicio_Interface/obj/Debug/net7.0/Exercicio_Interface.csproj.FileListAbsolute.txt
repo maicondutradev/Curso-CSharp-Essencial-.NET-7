@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\bin\Debug\net7.0\Exercicio_Interface.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\bin\Debug\net7.0\Exercicio_Interface.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\bin\Debug\net7.0\Exercicio_Interface.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\bin\Debug\net7.0\Exercicio_Interface.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\bin\Debug\net7.0\Exercicio_Interface.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\refint\Exercicio_Interface.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\Exercicio_Interface.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Exercicio_Interface\obj\Debug\net7.0\ref\Exercicio_Interface.dll
