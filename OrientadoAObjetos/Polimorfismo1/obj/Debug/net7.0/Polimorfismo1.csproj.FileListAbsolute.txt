@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\bin\Debug\net7.0\Polimorfismo1.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\bin\Debug\net7.0\Polimorfismo1.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\bin\Debug\net7.0\Polimorfismo1.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\bin\Debug\net7.0\Polimorfismo1.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\bin\Debug\net7.0\Polimorfismo1.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\refint\Polimorfismo1.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\Polimorfismo1.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Polimorfismo1\obj\Debug\net7.0\ref\Polimorfismo1.dll
