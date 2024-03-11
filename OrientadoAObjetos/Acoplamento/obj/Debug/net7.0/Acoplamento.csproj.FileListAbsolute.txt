@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\bin\Debug\net7.0\Acoplamento.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\bin\Debug\net7.0\Acoplamento.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\bin\Debug\net7.0\Acoplamento.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\bin\Debug\net7.0\Acoplamento.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\bin\Debug\net7.0\Acoplamento.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\refint\Acoplamento.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\Acoplamento.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\OrientadoAObjetos\Acoplamento\obj\Debug\net7.0\ref\Acoplamento.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "27LFW4xA8LdomiuLnjjaNLVxYT0JX1ibDgSHWU5MeGTlwes7yZfdv68xee6LZJ/7IRWPkCrxrEpYUk26+ajD9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maico\\Documents\\GitHub\\Curso-CSharp-Essencial-.NET-7\\OrientadoAObjetos\\Acoplamento\\Acoplamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
