@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\bin\Debug\net7.0\ExeploGetHashCodeEquals.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\bin\Debug\net7.0\ExeploGetHashCodeEquals.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\bin\Debug\net7.0\ExeploGetHashCodeEquals.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\bin\Debug\net7.0\ExeploGetHashCodeEquals.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\bin\Debug\net7.0\ExeploGetHashCodeEquals.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\refint\ExeploGetHashCodeEquals.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ExeploGetHashCodeEquals.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExeploGetHashCodeEquals\obj\Debug\net7.0\ref\ExeploGetHashCodeEquals.dll
