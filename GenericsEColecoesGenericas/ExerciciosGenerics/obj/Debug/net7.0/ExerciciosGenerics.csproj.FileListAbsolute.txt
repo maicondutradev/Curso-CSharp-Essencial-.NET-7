@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\bin\Debug\net7.0\ExerciciosGenerics.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\bin\Debug\net7.0\ExerciciosGenerics.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\bin\Debug\net7.0\ExerciciosGenerics.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\bin\Debug\net7.0\ExerciciosGenerics.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\bin\Debug\net7.0\ExerciciosGenerics.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\refint\ExerciciosGenerics.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ExerciciosGenerics.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\ExerciciosGenerics\obj\Debug\net7.0\ref\ExerciciosGenerics.dll
