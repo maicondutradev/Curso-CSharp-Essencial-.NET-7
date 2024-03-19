@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "As0Ibh7S6+2oYo47+FrhsrQTiP0l8IBCQkAnZ9afM16sGMTCPnhQucvqlx/O6Menrhs5LEUcp/kQLPve5B8+dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maico\\Documents\\GitHub\\Curso-CSharp-Essencial-.NET-7\\GenericsEColecoesGenericas\\Dictionary\\Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
