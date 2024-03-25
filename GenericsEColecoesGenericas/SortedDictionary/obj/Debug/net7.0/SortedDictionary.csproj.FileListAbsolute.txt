@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\bin\Debug\net7.0\SortedDictionary.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\bin\Debug\net7.0\SortedDictionary.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\bin\Debug\net7.0\SortedDictionary.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\bin\Debug\net7.0\SortedDictionary.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\bin\Debug\net7.0\SortedDictionary.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\refint\SortedDictionary.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\SortedDictionary.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedDictionary\obj\Debug\net7.0\ref\SortedDictionary.dll
