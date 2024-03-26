@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\bin\Debug\net7.0\HashSet.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\bin\Debug\net7.0\HashSet.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\bin\Debug\net7.0\HashSet.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\bin\Debug\net7.0\HashSet.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\bin\Debug\net7.0\HashSet.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\refint\HashSet.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\HashSet.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\obj\Debug\net7.0\ref\HashSet.dll
