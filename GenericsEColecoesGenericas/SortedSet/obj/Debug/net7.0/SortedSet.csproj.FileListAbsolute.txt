@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\bin\Debug\net7.0\SortedSet.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\bin\Debug\net7.0\SortedSet.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\bin\Debug\net7.0\SortedSet.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\bin\Debug\net7.0\SortedSet.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\bin\Debug\net7.0\SortedSet.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\refint\SortedSet.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\SortedSet.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\SortedSet\obj\Debug\net7.0\ref\SortedSet.dll
