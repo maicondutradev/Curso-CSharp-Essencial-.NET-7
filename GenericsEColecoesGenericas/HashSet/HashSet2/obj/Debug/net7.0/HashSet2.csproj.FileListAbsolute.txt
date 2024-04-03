@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\bin\Debug\net7.0\HashSet2.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\bin\Debug\net7.0\HashSet2.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\bin\Debug\net7.0\HashSet2.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\bin\Debug\net7.0\HashSet2.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\bin\Debug\net7.0\HashSet2.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\refint\HashSet2.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\HashSet2.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\GenericsEColecoesGenericas\HashSet\HashSet2\obj\Debug\net7.0\ref\HashSet2.dll
