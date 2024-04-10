@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\bin\Debug\net7.0\ExercicioTry-Catch.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\bin\Debug\net7.0\ExercicioTry-Catch.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\bin\Debug\net7.0\ExercicioTry-Catch.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\bin\Debug\net7.0\ExercicioTry-Catch.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\bin\Debug\net7.0\ExercicioTry-Catch.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\refint\ExercicioTry-Catch.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ExercicioTry-Catch.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExercicioTry-Catch\obj\Debug\net7.0\ref\ExercicioTry-Catch.dll
