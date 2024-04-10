@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\bin\Debug\net7.0\ExecocoesPersonalizadas.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\bin\Debug\net7.0\ExecocoesPersonalizadas.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\bin\Debug\net7.0\ExecocoesPersonalizadas.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\bin\Debug\net7.0\ExecocoesPersonalizadas.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\bin\Debug\net7.0\ExecocoesPersonalizadas.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\refint\ExecocoesPersonalizadas.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ExecocoesPersonalizadas.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\ExecocoesPersonalizadas\obj\Debug\net7.0\ref\ExecocoesPersonalizadas.dll
