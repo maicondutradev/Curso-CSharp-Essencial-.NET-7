@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\bin\Debug\net7.0\FiltroExcecoes.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\bin\Debug\net7.0\FiltroExcecoes.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\bin\Debug\net7.0\FiltroExcecoes.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\bin\Debug\net7.0\FiltroExcecoes.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\bin\Debug\net7.0\FiltroExcecoes.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\refint\FiltroExcecoes.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\FiltroExcecoes.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\FiltroExcecoes\obj\Debug\net7.0\ref\FiltroExcecoes.dll
