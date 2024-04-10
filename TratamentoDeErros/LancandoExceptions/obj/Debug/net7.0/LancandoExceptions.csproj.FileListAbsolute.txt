@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\bin\Debug\net7.0\LancandoExceptions.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\refint\LancandoExceptions.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\LancandoExceptions.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\TratamentoDeErros\LancandoExceptions\obj\Debug\net7.0\ref\LancandoExceptions.dll
