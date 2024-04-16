@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\bin\Debug\net7.0\Delegate.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\bin\Debug\net7.0\Delegate.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\Delegate\obj\Debug\net7.0\ref\Delegate.dll
