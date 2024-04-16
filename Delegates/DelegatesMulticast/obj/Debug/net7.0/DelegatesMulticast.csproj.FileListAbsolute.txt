@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\bin\Debug\net7.0\DelegatesMulticast.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\bin\Debug\net7.0\DelegatesMulticast.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\bin\Debug\net7.0\DelegatesMulticast.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\bin\Debug\net7.0\DelegatesMulticast.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\bin\Debug\net7.0\DelegatesMulticast.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\refint\DelegatesMulticast.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\DelegatesMulticast.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\DelegatesMulticast\obj\Debug\net7.0\ref\DelegatesMulticast.dll

@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\bin\Debug\net7.0\FuncoesAnonimas.exe
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\bin\Debug\net7.0\FuncoesAnonimas.deps.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\bin\Debug\net7.0\FuncoesAnonimas.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\bin\Debug\net7.0\FuncoesAnonimas.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\bin\Debug\net7.0\FuncoesAnonimas.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.sourcelink.json
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\refint\FuncoesAnonimas.dll
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.pdb
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\FuncoesAnonimas.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\Curso-CSharp-Essencial-.NET-7\Delegates\FuncoesAnonimas\obj\Debug\net7.0\ref\FuncoesAnonimas.dll
